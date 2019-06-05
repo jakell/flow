@@ -1,4 +1,2 @@
-
----
 applications:
-- name: flow
+- name: source
